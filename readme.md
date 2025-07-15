@@ -1,3 +1,2 @@
-Official code for _Latent Diffusion, Implicit Amplification: Efficient Continuous-Scale Super-Resolution for Remote Sensing Images_
-
-This repository has been moved to a new location: https://github.com/MoooJianG/LDCSR.
+## Repository Moved
+**🚨 This repository has been relocated to https://github.com/MoooJianG/LDCSR. Please update your bookmarks and visit the new location for the latest updates!**
